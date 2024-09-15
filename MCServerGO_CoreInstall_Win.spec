@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['MCServerGO_CoreInstall_Win.py'],
+    ['MCServerGO_Coreinstall_Win.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='MCServerGO_CoreInstall_Win',
+    name='MCServerGO_Coreinstall_Win',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
