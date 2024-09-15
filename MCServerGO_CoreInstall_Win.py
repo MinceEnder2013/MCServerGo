@@ -23,7 +23,7 @@ def main():
     print("[1]我要开插件服(使用Purpur端)")
     print("[2]我要开MOD端(使用Fabric端)")
     print("本程序仅面向新手，如果你是大神，没必要用这个")
-    print("输入序号开始下载核心(插件默认1.20.4，MOD端默认1.20.1)不仅因为我懒，还因为mod端我是真没找到1.20.4的jar客户端，等有时间了我再写2")
+    print("输入序号开始下载核心(插件默认1.20.4，MOD端默认1.20.1)不仅因为我懒，还因为mod端我是真没找到1.20.4的jar客户端，等有时间了我再写2pip install pyinstallerpip install pyinstaller")
     
     choice = input("你要开什么服？(填序号): ")
     
